@@ -1,9 +1,10 @@
 {
-  "name": "to-do-list",
+  "name": "zohaib01-to-do-list",
   "version": "1.0.0",
   "description": "This is a cli Based Application that you can manage your work",
   "main": "index.js",
   "type": "module",
+  "bin": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

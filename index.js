@@ -1,3 +1,4 @@
+#! /usr/bin/env node
 import inquire from "inquirer";
 let todos = [];
 let loop = true;
